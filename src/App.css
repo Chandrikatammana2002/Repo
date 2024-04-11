@@ -531,4 +531,7 @@
   .imgfo{
     display: none;
   }
+  .image-grid{
+    flex-direction: column;
+  }
 }
