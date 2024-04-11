@@ -526,7 +526,8 @@
 /* For mobile devices (portrait) */
 @media (max-width: 480px) {
   .para {
-    padding: 5px;
+    display: flex;
+    flex-direction: column;
   }
   .imgfo{
     display: none;

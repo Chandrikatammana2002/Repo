@@ -14,7 +14,7 @@ function Hero() {
             experts in strategy, design, and development.
             </p>
         </div>
-        <span className="vert"></span>
+     
         <div className="right-content">
             
             <p>Discuss Your Project</p>
