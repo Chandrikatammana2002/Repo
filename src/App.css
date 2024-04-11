@@ -528,4 +528,7 @@
   .para {
     padding: 5px;
   }
+  .imgfo{
+    display: none;
+  }
 }
